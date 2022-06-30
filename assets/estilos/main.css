@@ -12,6 +12,10 @@ body {
     Menu de navegación
 -----------------------------------------------------------*/
 
+#pilar {
+  border-radius: 35px;
+}
+
 #mainNav {
     background-color: black
 }
