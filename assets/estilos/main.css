@@ -1531,7 +1531,7 @@ img{
   font-size:1.5em;
   padding:15px 10px;
   border-radius:5px;
-  
+   background:black;
 }
 
 .controls:hover{
@@ -1545,10 +1545,12 @@ img{
 
 #left-arrow{
   left:10px;
+  color:coral;
 }
 
 #right-arrow{
   right:10px;
+  color:coral;
 }
 
 #dots-con{
@@ -1576,7 +1578,5 @@ img{
     font-size:1em;
   }
   
-  #dots-con{
-    display:none;
-  }
+  
 }
