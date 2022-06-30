@@ -108,7 +108,7 @@ body {
 }
 
 #formacion, #habilidades, #portfolio, #sobremi, #contacto {
-    margin-top: 40px;
+    margin-top: 30px;
     margin-bottom: 40px;
 }
 
@@ -455,6 +455,8 @@ body {
 
 #descriptionMe{
   text-align: justify;
+  padding-left: 10px;
+padding-right: 10px;
 }
 
 .col-lg-8.pt-4.pt-lg-0.content {
@@ -482,7 +484,7 @@ body {
     text-align: center;
 }
 .col-md-3.center.espace {
-    margin-bottom: 7%;
+    margin-bottom: 3%;
 }
 .col-md-1.espace {
     margin-bottom: 5%;
